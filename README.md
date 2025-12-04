@@ -45,5 +45,5 @@
 ### 引用
 Chen C, Wu Y, Shi J, et al. A parallel weighted ADTC-Transformer framework with FUnet fusion and KAN for improved lithium-ion battery SOH prediction. *Control Engineering Practice*, 2025, 159: 106302.
 
-###博客
+## 博客
 https://blog.csdn.net/the_heng/article/details/155576399?sharetype=blogdetail&sharerId=155576399&sharerefer=PC&sharesource=the_heng&spm=1011.2480.3001.8118
