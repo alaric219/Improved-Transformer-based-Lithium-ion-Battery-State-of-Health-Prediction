@@ -1,7 +1,7 @@
 ## 总框图
 
 <p align="center">
-  <img src="figs/fig1.png" width="70%" />
+  <img src="figs/fig1.png" width="95%" />
 </p>
 
 
