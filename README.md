@@ -1,5 +1,9 @@
 ## 总框图
-![总框图](figs/fig1.png)
+
+<p align="center">
+  <img src="figs/fig1.png" width="70%" />
+</p>
+
 
 ## 单步实验与多步实验
 
@@ -19,9 +23,11 @@
 
 ## 权值调试实验
 
-![fig10a](figs/fig10a.png)
-![fig10b](figs/fig10b.png)
-![fig10c](figs/fig10c.png)
+<p align="center">
+  <img src="figs/fig10a.png" width="45%" />
+  <img src="figs/fig10b.png" width="45%" />
+  <img src="figs/fig10c.png" width="45%" />
+</p>
 
 
 ## 实验环境
