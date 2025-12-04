@@ -4,6 +4,13 @@
   <img src="figs/fig1.png" width="95%" />
 </p>
 
+## 原始数据（预处理后）
+
+<p align="center">
+  <img src="figs/fig6a.png" width="45%" />
+  <img src="figs/fig6b.png" width="45%" />
+  <img src="figs/fig6e.png" width="45%" />
+</p>
 
 ## 单步实验与多步实验
 
