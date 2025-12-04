@@ -1,12 +1,28 @@
 ## 总框图
 ![总框图](figs/fig1.png)
 
-## 部分实验结果
-![实验结果1](figs/fig8a.png)
+## 单步实验与多步实验
 
-![实验结果2](figs/fig8b.png)
+<p align="center">
+  <img src="figs/fig8a.png" width="45%" />
+  <img src="figs/fig8b.png" width="45%" />
+  <img src="figs/fig8c.png" width="45%" />
+</p>
 
-![实验结果3](figs/fig8c.png)
+## 消融实验+对比实验
+
+<p align="center">
+  <img src="figs/fig8a.png" width="45%" />
+  <img src="figs/fig8b.png" width="45%" />
+  <img src="figs/fig8c.png" width="45%" />
+</p>
+
+## 权值调试实验
+
+![fig10a](figs/fig10a.png)
+![fig10b](figs/fig10b.png)
+![fig10c](figs/fig10c.png)
+
 
 ## Packages
 - Python 3.11.5 interpreter
